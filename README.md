@@ -3,14 +3,14 @@ git remote for connecting our local repository to GitHub. \
 git branch for renaming our branch. \
 git add and git commit for staging and committing our changes. \
 git status for checking the status of our files. \
-git push for pushing our code to GitHub. \
+git push for pushing our code to GitHub. 
 
 
---------Commands---------
+--------Commands--------- \
     git init \
     git remote add origin <repository_url> \
     git branch -M main \
     git add . \
     git commit -m 'Your commit message here!' \
     git status \
-    git push -u origin main \
+    git push -u origin main 
